@@ -21,9 +21,8 @@ public class SwitchDemo {
 		case 'S':
 		System.out.println(x+" is Special Symbol");
 		default:
-		System.out.println(x+" is other than letter, digit, space or special symbol ");
-		break;
+		System.out.println(x+" is other than letter, digit, space or special symbol");
 		}
-		}
-		
+	}
+
 }

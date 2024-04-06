@@ -17,6 +17,5 @@ public class OperatorsDemo {
 		x = (10 == x) ? 1 : 0; 
 		System.out.println(x);
 		}
+		}
 
-
-}

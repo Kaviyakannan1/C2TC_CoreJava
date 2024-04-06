@@ -11,6 +11,5 @@ public class ContinueDemo {
 		System.out.print(k + " ");
 		}
 		}
-		
-		//Program to demonstrate break state
+
 }
